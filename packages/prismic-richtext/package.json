@@ -41,6 +41,7 @@
     "typescript": "^3.2.2",
     "webpack": "^4.27.1",
     "webpack-cli": "^3.1.2",
-    "yargs": "^10.0.3"
+    "yargs": "^10.0.3",
+    "@prismicio/alpha": "^1.0.1"
   }
 }
