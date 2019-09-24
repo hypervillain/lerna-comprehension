@@ -10,7 +10,7 @@
     "access": "public"
   },
   "dependencies": {
-    "@prismicio/alpha": "1.0.1",
+    "@prismicio/alpha": "^1.0.1",
     "@prismicio/beta": "^1.0.2"
   },
   "keywords": [],
